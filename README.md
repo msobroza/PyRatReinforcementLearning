@@ -1,4 +1,4 @@
-# PyRatReinforcementLearning
+# PyRat ReinforcementLearning (PyTorch)
 
 This code uses an approach of Policy Gradients and REINFORCE for training a neural network capable to chose best actions for win the PyRat game against a Greedy Algorithm. It can win the Greedy Algorithm 83.0% of games in the configuration described by the follows command lines.
 
