@@ -17,7 +17,7 @@ python3 ./pyrat.py --python AIs/cours5.py --rat AIs/ratorch_test.py --random_see
 ```
 The are checkpoints of a training network are also available:
 
-*** checkpoint.pth.tar***
+**checkpoint.pth.tar**
 
 
 
