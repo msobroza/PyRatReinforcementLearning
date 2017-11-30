@@ -1,0 +1,1 @@
+python3 ./pyrat.py --python AIs/cours5.py --rat AIs/ratorch.py --random_seed 2017 -p 100 --tests 10000 --random_cheese -d 0.1
